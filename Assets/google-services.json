@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "852701293156",
+    "firebase_url": "https://reim-primero-basico.firebaseio.com",
+    "project_id": "reim-primero-basico",
+    "storage_bucket": "reim-primero-basico.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852701293156:android:12021b3e4dae841d",
+        "android_client_info": {
+          "package_name": "cl.unab.reim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852701293156-6uq5snso03mp9gtakok6tljfq8bhaub0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALK0Bl3kd-ZQ9RKP6lrhAdosbuC66o7bs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
